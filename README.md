@@ -1,4 +1,4 @@
-## 💻 MedApp (Consultório Médico)
+## 💻 MedApp
 
 Simula a administração de um consultório, onde:
 
